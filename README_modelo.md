@@ -1,17 +1,9 @@
-# Dados do Aluno
+﻿# Dados do Aluno
 
-- **Nome:**  
-- **Número:**  
-- **Turma:**  
-
----
+- **Nome:** Tiago Matias
+- **Número:** a22607135
+- **Turma:** Por preencher
 
 ## Alterações realizadas
 
-(Descreve brevemente as alterações feitas neste repositório.)
-
----
-
-## Observações (opcional)
-
-(Podes deixar aqui algum comentário sobre o processo, dificuldades ou observações relevantes.)
+Configuração do Git LFS para imagens PNG e criação de uma branch para adicionar os dados do aluno.
