@@ -1,0 +1,1 @@
+﻿Ficheiro temporário para observar os estados do Git.
