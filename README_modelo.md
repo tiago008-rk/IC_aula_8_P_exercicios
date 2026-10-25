@@ -1,8 +1,9 @@
-# Dados do Aluno
+﻿# Dados do Aluno
 
 - **Nome:** Tiago Matias
-- **Número:** a22607135
+- **NÃºmero:** a22607135
 
-## Alterações realizadas
+## AlteraÃ§Ãµes realizadas
 
-Configuração do Git LFS para imagens PNG e criação de uma branch para adicionar os dados do aluno.
+ConfiguraÃ§Ã£o do Git LFS para imagens PNG e criaÃ§Ã£o de uma branch para adicionar os dados do aluno.
+
